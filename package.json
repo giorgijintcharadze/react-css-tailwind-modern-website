@@ -1,7 +1,9 @@
 {
   "name": "react-css-tailwind-modern-website",
   "private": true,
-  "workspaces": ["vite-project"],
+  "workspaces": [
+    "vite-project"
+  ],
   "scripts": {
     "dev": "npm run dev --workspace=vite-project",
     "build": "npm run build --workspace=vite-project",
